@@ -16,3 +16,4 @@ courses to consolidate a variety of skills.
 
 
 ### CSS BASICS
+- [Blog about the projects](urbanwudangwarrior.wordpress.com/2017/11/22/edx-css-course-projects/)
